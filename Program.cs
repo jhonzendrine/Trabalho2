@@ -7,6 +7,7 @@ namespace INF099
             //Versão 2
             //Versão 3
             Console.WriteLine("Olá Professor!");
+            //Versão 3.2 Conflito
         }
         //Versão 3.1
     }
