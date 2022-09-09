@@ -4,6 +4,7 @@ namespace INF099
     {
         static void Main(string[] args) {
             //Versão 1
+            //Versão 2
             Console.WriteLine("Olá Professor!");
         }
     }
